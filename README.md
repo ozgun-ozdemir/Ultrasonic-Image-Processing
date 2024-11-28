@@ -7,7 +7,7 @@ An application designed for processing and visualizing ultrasonic images. This t
 - **Inverse Image:** View the inverse of the ultrasound image.
 - **Binary Slicing:** Perform binary slicing on images to highlight specific regions.
 - **Image Display:** Display the original, enhanced, inverse, and binary sliced images.
-- **Patient Information:** Enter and display patient details (ID, name, age, gender, status).
+- **Patient Information:** Enter and display patient details.
 - **Results Visualization:** Visualize the results with various image processing techniques.
 
 ## Technologies Used
